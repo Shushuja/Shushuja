@@ -14,11 +14,11 @@
 
 ###
 
-<img data-importer="image" align="left" height="305" src="https://i.yapx.ru/ePnRa.png"  />
+<img data-importer="image" align="left" height="390" src="https://i.yapx.ru/ePnRa.png"  />
 
 ###
 
-<img data-importer="image" align="right" height="400" src="https://i.pinimg.com/736x/ef/bd/d2/efbdd23b37b410fa55fe11a61869e819.jpg"  />
+<img data-importer="image" align="right" height="300" src="https://i.pinimg.com/736x/ef/bd/d2/efbdd23b37b410fa55fe11a61869e819.jpg"  />
 
 ###
 
