@@ -6,19 +6,15 @@
 
 ###
 
-<h2 data-importer="text" align="center">𝐁𝐚𝐬𝐢𝐜 𝐢𝐧𝐟𝐨<br><br>𝐄𝐍𝐆/𝐑𝐔𝐒<br>𝟏𝟔+ 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 (𝐩𝐥𝐬)<br>𝐈 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐥𝐤 𝐦𝐮𝐜𝐡 𝐚𝐧𝐝 𝐚𝐦 𝐚𝐥𝐦𝐨𝐬𝐭 𝐚𝐥𝐰𝐚𝐲𝐬 𝐀𝐅𝐊<br>𝐕𝐞𝐫𝐲 𝐫𝐮𝐝𝐞 𝐣𝐨𝐤𝐞𝐬 𝐛𝐮𝐭 𝐢𝐦 𝐜𝐡𝐢𝐥𝐥 𝐭𝐫𝐮𝐬𝐭 𝐦𝐞<br>𝐖𝟐𝐈 𝐢𝐟 𝐈'𝐦 𝐚𝐬𝐥𝐞𝐞𝐩</h2>
+<h2 data-importer="text" align="center">𝐁𝐚𝐬𝐢𝐜 𝐢𝐧𝐟𝐨<br><br>𝐄𝐍𝐆/𝐑𝐔𝐒<br>𝟏𝟔+ 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 (𝐩𝐥𝐬)<br>𝐈 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐥𝐤 𝐦𝐮𝐜𝐡 𝐚𝐧𝐝 𝐚𝐦 𝐚𝐥𝐦𝐨𝐬𝐭 𝐚𝐥𝐰𝐚𝐲𝐬 𝐀𝐅𝐊<br>𝐕𝐞𝐫𝐲 𝐫𝐮𝐝𝐞 𝐣𝐨𝐤𝐞𝐬 𝐛𝐮𝐭 𝐢𝐦 𝐜𝐡𝐢𝐥𝐥 𝐭𝐫𝐮𝐬𝐭 𝐦𝐞<br>𝐖𝟐𝐈 𝐢𝐟 𝐈'𝐦 𝐚𝐬𝐥𝐞𝐞𝐩</h2>𝐢 𝐡𝐚𝐭𝐞 𝐦𝐚𝐫𝐯𝐞𝐥 𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐞<br>
 
 ###
 
-<h2 data-importer="text" align="center">𝐢 𝐡𝐚𝐭𝐞 𝐦𝐚𝐫𝐯𝐞𝐥 𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐞</h2>
+<img data-importer="image" align="right" height="400" src="https://i.pinimg.com/736x/ef/bd/d2/efbdd23b37b410fa55fe11a61869e819.jpg"  />
 
 ###
 
 <img data-importer="image" align="left" height="390" src="https://i.yapx.ru/ePnRa.png"  />
-
-###
-
-<img data-importer="image" align="right" height="300" src="https://i.pinimg.com/736x/ef/bd/d2/efbdd23b37b410fa55fe11a61869e819.jpg"  />
 
 ###
 
